@@ -1,0 +1,28 @@
+{
+  "name": "mernapinotes",
+  "version": "1.0.0",
+  "description": "Building a MERN App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelvautour/mernapinotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelvautour/mernapinotes/issues"
+  },
+  "homepage": "https://github.com/michaelvautour/mernapinotes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
